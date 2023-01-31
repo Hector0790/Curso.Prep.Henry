@@ -1,0 +1,24 @@
+ Arrays: son lista o estructura  de elemntos que se definen usando los siguientes simbolos []; estos elemtos pueden ser: string,numericos,funciones incluso otros arreglos
+
+ Ejemplo: var array=[1,"tony",null,undefided,function(),2,[1,2,3,4]]
+
+ y estos elementos tiene una lugar fijo dentro del areglo, esta ubicacion empeiza con 0 ciendo la primera ubciacion.
+
+ 
+ 
+ array[0]=1
+ array[1]="tony"
+ array[3]= function
+ array[1]+"hola"
+ array[6][0]=1
+
+ array.length=7 //elemtos con la propiedad lenght sirve para ver la cabntidad de elemtos.
+
+ como se definie un arreglo:
+
+ var arreglo=[1,2,3,4]
+
+agregar elementos:
+
+push = es una funcion que agregar elementos al areglo pero lo pon el la ultima posición.
+pop= es una funcion que saca el ultimo elemento del arreglo
