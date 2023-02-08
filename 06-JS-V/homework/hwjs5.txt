@@ -1,0 +1,24 @@
+* `prototype`:
+es una manera que es usada para reutilizar una propiedad que este en un objeto y con eso se reautiliza la propiedad
+para evitar repetir codigo.  en otras palabras es una propiedad que tienen los objetos en js.
+
+se escribe __proto__
+
+
+--------------------------------------------------------------------------------------------------------------------
+* _Constructors_ (de Clases):es una funcion que nos permite construir objetos.
+
+y se escribe de la sieuiente manera:
+
+
+function Persona(){
+    this.firstname ="juan";
+    this.lastname="perez";
+    
+}
+
+var juan=new persona();
+console.log(juan)
+
+
+y como es una funcion contructora su nombre se inicia con la letra mayuscula Ej: Persona
