@@ -1,0 +1,48 @@
+body {
+    background-image: url(./hamburguesa_2242-322.jpg);
+    margin: 0 auto;
+    }
+
+    #divClass {
+            width: 100%;
+            display: flex;
+            justify-content:center;
+            align-items: column;
+                   
+          }
+
+#thirdDiv{
+    margin: 0 auto;
+    height: 500px;
+    width: 600px;
+    background-color: aquamarine;
+    padding: 50px;
+    border: solid 4px chartreuse;   
+    display: flex;
+    justify-content:center;
+    align-items: column;
+      
+}
+#spanId{
+    width: 100%;
+    display: flex;
+    justify-content: center;  
+    align-items: center;    
+    margin: 0  auto;
+    font-size: 18px; 
+    margin: 50px;
+    
+}
+
+h1{
+    color:chartreuse
+
+                
+            
+}
+
+img{
+    width: 300px;
+}
+
+

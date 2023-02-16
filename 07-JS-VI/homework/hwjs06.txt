@@ -1,0 +1,2 @@
+* Funciones Callback: es otra manera de reutilizar codigo en este caso usariamos funciones ya establecidades, dentro de otras funciones u objetos pero se usarian como un argumneto de la funcion.
+La convención es usar `cb` como argumento para la variable que se usará de callback.
